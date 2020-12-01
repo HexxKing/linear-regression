@@ -1,1 +1,1 @@
-[Submission PR Link]()
+[Submission PR Link](https://github.com/HexxKing/linear-regression/pull/1)
